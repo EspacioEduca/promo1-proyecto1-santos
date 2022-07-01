@@ -1,0 +1,99 @@
+.box1 {
+    background-color: rgb(255, 255, 126);
+    border: solid rgb(95, 89, 30) 1px;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    font-family: watone;
+    font-size: 100px;
+    text-align: center;
+    padding: 0px;
+}
+
+.box2 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box3 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30)2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box4 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30)2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box5 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box6 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box7 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box8 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box9 {
+    margin: 1px;
+    border-bottom: solid rgb(95, 89, 30) 2px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+.box10 {
+    margin: 1px;
+    font-family: Bahnschrift SemiBold;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    margin: 2px;
+}
+
+body {
+    background-image: linear-gradient(rgb(255, 236, 66), white);
+}
+
+img {
+    width: 250px;
+}
+
+.center-photo {
+    display: flex;
+    justify-content: center;
+}
